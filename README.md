@@ -7,7 +7,7 @@
 
 * 👨‍💻 All of my projects are available at [https://sirpeter89.github.io/](https://sirpeter89.github.io/)
 
-* 📫 How to reach me **justiaw2@uci.edu*
+* 📫 How to reach me *justiaw2@uci.edu*
 
 <h3 align="left">Languages and Tools:</h3>
 
