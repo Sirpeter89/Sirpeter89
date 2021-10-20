@@ -3,7 +3,7 @@
 
 * 🔭 I’m currently working on [BobaeMatch](https://bobaematch.herokuapp.com/)
 
-* 🌱 I’m currently learning about Web Sockets, particularly <b>Socket.IO</b>
+* 🌱 I’m currently learning about <b>TypeScript</b>
 
 * 👨‍💻 All of my projects are available at [https://sirpeter89.github.io/](https://sirpeter89.github.io/)
 
