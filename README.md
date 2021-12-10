@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Justin Wong</h1>
 <h3 align="center">An enthusiastic software engineer who loves to learn new technologies!</h3>
 
-* 🔭 I’m currently working on [BobaeMatch](https://bobaematch.herokuapp.com/)
+* 🔭 I’m currently a Full Stack Intern for [PWV Consultants](https://www.pwvconsultants.com/)
 
-* 🌱 I’m currently learning about <b>TypeScript</b>
+* 🙌 My most recent project is [BobaeMatch](https://bobaematch.herokuapp.com/)
+
+* 🌱 I’m currently learning about <b>AWS Cloud Terraform</b> and <b>Bitbucket CI/CD integration with Pipeline Scripts</b>
 
 * 👨‍💻 All of my projects are available at [https://sirpeter89.github.io/](https://sirpeter89.github.io/)
 
