@@ -5,7 +5,7 @@
 
 * 🙌 My most recent project is [BobaeMatch](https://bobaematch.herokuapp.com/)
 
-* 🌱 I’m currently learning about <b>AWS Cloud Terraform</b> and <b>Bitbucket CI/CD integration with Pipeline Scripts</b>
+* 🌱 I’m currently learning about <b>AWS Cloud Terraform</b>, <b>Bitbucket CI/CD integration with Pipeline Scripts</b>, and <b>Rust</b>
 
 * 👨‍💻 All of my projects are available at [https://sirpeter89.github.io/](https://sirpeter89.github.io/)
 
