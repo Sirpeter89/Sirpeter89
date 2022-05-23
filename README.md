@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Justin Wong</h1>
 <h3 align="center">An enthusiastic software engineer who loves to learn new technologies!</h3>
 
-* 🔭 I’m currently a Full Stack Intern for [PWV Consultants](https://www.pwvconsultants.com/)
+* 🔭 I’m currently a Full Stack Intern for [PWV Consultants](https://www.pwvconsultants.com/), we've been using BitBucket
 
 * 🙌 My most recent project is [BobaeMatch](https://bobaematch.herokuapp.com/)
 
