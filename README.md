@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Justin Wong</h1>
 <h3 align="center">An enthusiastic software engineer who loves to learn new technologies!</h3>
 
-* 🔭 I’m currently a Full Stack Intern for [PWV Consultants](https://www.pwvconsultants.com/), we've been using BitBucket
+* 🔭 I’m currently a Jr. Full Stack Developer for [PWV Consultants](https://www.pwvconsultants.com/), we've been using BitBucket
 
-* 🙌 My most recent project is [BobaeMatch](https://bobaematch.herokuapp.com/)
+* 🙌 My most recent project personal project is [BobaeMatch](https://bobaematch.herokuapp.com/)
 
-* 🌱 I’m currently learning about <b>AWS Cloud Terraform</b>, <b>Bitbucket CI/CD integration with Pipeline Scripts</b>, and <b>Rust</b>
+* 🌱 I’m currently reviewing the <b>MERN Stack</b>
 
 * 👨‍💻 All of my projects are available at [https://sirpeter89.github.io/](https://sirpeter89.github.io/)
 
