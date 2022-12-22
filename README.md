@@ -5,7 +5,7 @@
 
 * 🙌 My most recent project personal project is [BobaeMatch](https://bobaematch.herokuapp.com/)
 
-* 🌱 I’m currently attempting to learn the <b>MERN Stack</b> coming from a previous background knowing the <b>PERN Stack</b>
+* 🌱 I’m currently doing reiterations of web development material to keep my knowledge fresh
 
 * 👨‍💻 All of my projects are available at [https://sirpeter89.github.io/](https://sirpeter89.github.io/)
 
